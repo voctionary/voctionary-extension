@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Voctionary Extension",
+  "description": "Voctionary Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "favicon.ico"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
